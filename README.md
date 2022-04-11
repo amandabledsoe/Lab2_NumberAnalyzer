@@ -1,4 +1,4 @@
-This is my solution for the C# .Net After-Hours boot camp Lab 2: Room Analyzer. (In Progress)
+This my solution for Lab 2 of the 2022 C# .NET After-Hours Boot Camp at Grand Circus. (In Progress)
 
 ## NUMBER ANALYZER - Decision Maker
 Objectives: User Input, Conditionals
