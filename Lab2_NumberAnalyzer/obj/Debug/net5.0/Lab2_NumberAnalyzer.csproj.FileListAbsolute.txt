@@ -1,0 +1,16 @@
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\Lab2_NumberAnalyzer.exe
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\Lab2_NumberAnalyzer.deps.json
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\Lab2_NumberAnalyzer.runtimeconfig.json
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\Lab2_NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\Lab2_NumberAnalyzer.dll
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\ref\Lab2_NumberAnalyzer.dll
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\bin\Debug\net5.0\Lab2_NumberAnalyzer.pdb
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.AssemblyInfo.cs
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.dll
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\ref\Lab2_NumberAnalyzer.dll
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.pdb
+C:\Users\xando\source\repos\Lab2_NumberAnalyzer\Lab2_NumberAnalyzer\obj\Debug\net5.0\Lab2_NumberAnalyzer.genruntimeconfig.cache
