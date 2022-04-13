@@ -15,7 +15,7 @@ namespace Lab2_NumberAnalyzer
 
             Console.WriteLine("Welcome to the Number Analyzer Application!");
             Console.WriteLine("");
-            Console.WriteLine("With whom do we have the pleasure of working with today?");
+            Console.WriteLine("With whom do we have the pleasure of working today?");
             Console.Write("Enter your name here: ");
             userName = Console.ReadLine();
             Console.WriteLine("");
@@ -24,7 +24,7 @@ namespace Lab2_NumberAnalyzer
 
             while (runningProgram)
             {
-                Console.WriteLine("Enter a number between 1 and 100.");
+                Console.WriteLine("Enter a whole number between 1 and 100.");
                 userInput = Console.ReadLine();
                 isANumber = int.TryParse(userInput, out int number);
                 if (isANumber)
@@ -98,7 +98,7 @@ namespace Lab2_NumberAnalyzer
                 }
                 else
                 {
-                    Console.WriteLine("Sorry, that doesnt appear to be a number. Please try again.");
+                    Console.WriteLine("Sorry, that doesnt appear to be a whole number. Please try again.");
                     Console.WriteLine("");
                     runningProgram = true;
                 }
